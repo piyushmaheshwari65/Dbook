@@ -1,2 +1,2 @@
 # Dbook
-Decentralized Books issuing and reting system
+Decentralized Books renting system
